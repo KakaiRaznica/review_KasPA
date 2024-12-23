@@ -23,7 +23,7 @@ RetroGame Vault — это веб-приложение для скрапинга
 
 1. **Клонируйте репозиторий**:
    ```bash
-   https://github.com/KakaiRaznica/review_kasatkin.git
+   https://github.com/KakaiRaznica/review_KasPA.git
    cd retrogame-vault
    ```
 
